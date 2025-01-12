@@ -1,0 +1,17 @@
+.odd-paragraph{
+    background-color:lightpink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#blue-text{
+    color: blue;
+    font-size:36px;
+}
+.bigger-font{
+font-size: 24px;
+}
+#last{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
